@@ -37,3 +37,7 @@ Motors: 3 × MG996R + 3 × Mini Servo Motors
 Control: Hand gesture mapping, inverse kinematics
 
 Extras: Object detection for automation
+
+https://github.com/user-attachments/assets/39e79fb0-c90a-44e0-9f12-6514a563a97f
+
+
